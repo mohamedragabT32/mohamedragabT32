@@ -1,4 +1,4 @@
-# Hi there, I'm Mohamed! 👋
+# Hi there, I'm Mohamed! 
 
 ### 🚀 Junior Full-Stack Developer | Focusing on Laravel & React
 I am a passionate developer dedicated to building functional and scalable web applications. Currently, I am focused on mastering the art of building real-world management systems.
