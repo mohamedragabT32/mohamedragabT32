@@ -31,7 +31,7 @@ I am building a specialized ERP system to manage diverse business activities (Co
 ### 📫 How to reach me:
 - **LinkedIn:** [www.linkedin.com/in/mohamed-ragab-fullstack]
 - **Email:** [mohamedragab.t32@gmail.com]
-- **Location:** Saudi Arabia (Open to relocation worldwide 🌎, with a special interest in Saudi Arabia 🇸🇦)
+- **Location:** Saudi Arabia.
 
 ---
 
