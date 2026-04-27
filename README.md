@@ -1,37 +1,37 @@
 # Hi there, I'm Mohamed! 
 
 ### 🚀 Junior Full-Stack Developer | Focusing on Laravel & React
-I am a passionate developer dedicated to building functional and scalable web applications. Currently, I am focused on mastering the art of building real-world management systems.
+Junior Full Stack Developer specializing in PHP, Laravel, and React.js. Passionate about coding and building clean, functional web applications. Currently based in Riyadh and eager to contribute to a professional team where I can apply my technical skills and continue growing as a developer.
 
 ---
 
 ### 🛠️ My Tech Stack
-- **Backend:** PHP & Laravel (Filament PHP)
-- **Frontend:** React.js, CSS3, JavaScript
+- **Backend:** PHP & Laravel
+- **Frontend:**React.js, JavaScript (ES6+), HTML5, CSS3
 - **Database:** MySQL
 - **Version Control:** Git & GitHub
 
 ---
 
-### 🏗️ Current Project: Saree Momayaz ERP (In Progress)
-I am building a specialized ERP system to manage diverse business activities (Construction & Retail). My focus is on:
-- **Scalability:** Managing multi-tenancy structures.
-- **Security:** Implementing precise Role-Based Access Control (RBAC).
-- **Data Integrity:** Ensuring clean and isolated database management.
+### 🏗️ Current Project: Saree Momayaz (In Progress)
+I am building a Saree Momayaz site. My focus is on:
+- ** Developed a professional website for construction services using React.js.
+- ** Crafted the design with Pure CSS for a unique, high-end look.
+- ** Focused on building a fully responsive and modern user interface..
 
 ---
 
 ### 🌱 Learning Journey
 - Mastering **Clean Code** in Laravel.
 - Building interactive and responsive user interfaces with **React.js**.
-- Exploring **Database Optimization** for complex ERP systems.
+- Exploring **Database Optimization**.
 
 ---
 
 ### 📫 How to reach me:
 - **LinkedIn:** [www.linkedin.com/in/mohamed-ragab-fullstack]
 - **Email:** [mohamedragab.t32@gmail.com]
-- **Location:** Saudi Arabia.
+- **Location:** Riyadh, Saudi Arabia‏.
 
 ---
 
