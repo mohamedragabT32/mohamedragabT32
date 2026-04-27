@@ -6,10 +6,11 @@ Junior Full Stack Developer specializing in PHP, Laravel, and React.js. Passiona
 ---
 
 ### 🛠️ My Tech Stack
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3
 - **Backend:** PHP & Laravel
-- **Frontend:**React.js, JavaScript (ES6+), HTML5, CSS3
 - **Database:** MySQL
 - **Version Control:** Git & GitHub
+
 
 ---
 
