@@ -1,20 +1,20 @@
 # Hi there, I'm Mohamed! 
 
-### 🚀 Junior Full-Stack Developer | Focusing on Laravel & React
-Junior Full Stack Developer specializing in PHP, Laravel, and React.js. Passionate about coding and building clean, functional web applications. Currently based in Riyadh and eager to contribute to a professional team where I can apply my technical skills and continue growing as a developer.
+### 🚀 Junior Web Developer 
+Junior Web Developer specializing in React.js. Passionate about coding and building clean, functional web applications. Currently based in Riyadh and eager to contribute to a professional team where I can apply my technical skills and continue growing as a developer.
 
 ---
 
 ### 🛠️ My Tech Stack
 - **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3
-- **Backend:** PHP & Laravel
-- **Database:** MySQL
+- **Backend:** PHP & Laravel ( in progress )
+- **Database:** MySQL ( in progress )
 - **Version Control:** Git & GitHub
 
 
 ---
 
-### 🏗️ Current Project: Saree Momayaz (In Progress)
+### 🏗️ Current Project: Saree Momayaz 
 I am building a Saree Momayaz site. My focus is on:
 - ** Developed a professional website for construction services using React.js.
 - ** Crafted the design with Pure CSS for a unique, high-end look.
@@ -23,9 +23,9 @@ I am building a Saree Momayaz site. My focus is on:
 ---
 
 ### 🌱 Learning Journey
-- Mastering **Clean Code** in Laravel.
+- learning **Clean Code** in Laravel.
 - Building interactive and responsive user interfaces with **React.js**.
-- Exploring **Database Optimization**.
+- Exploring **Database**.
 
 ---
 
