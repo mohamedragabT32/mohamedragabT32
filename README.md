@@ -1,7 +1,7 @@
 # Hi there, I'm Mohamed! 
 
 ### 🚀 Junior Web Developer 
-Junior Web Developer specializing in React.js. Passionate about coding and building clean, functional web applications. Currently based in Riyadh and eager to contribute to a professional team where I can apply my technical skills and continue growing as a developer.
+Junior Web Developer passionate about coding and building clean, functional web applications. Currently based in Riyadh and eager to contribute to a professional team where I can apply my technical skills and continue growing as a developer.
 
 ---
 
